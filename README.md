@@ -44,12 +44,12 @@ Utilize the following design specifications below with the properties above to a
 ### Colors
 - yellow
 - red
-- `#f3b76a`
-- `#f17500`
-- `#0d6e00`
-- `#6d00fb`
-- `#dbff39`
-- `#74c9f1`
+- `#f3b76a` pale yellow
+- `#f17500` orange
+- `#0d6e00` dark green
+- `#6d00fb` purple
+- `#dbff39` bright green yellow
+- `#74c9f1` pale blue
 - `#fb4040`
 
 ### Sizes:
