@@ -6,6 +6,7 @@ h1 {
     border-radius: 50px;
     font-size: 3rem;
     text-decoration-line: underline;
+    text-shadow: 2px 2px 10px #dbff39;
 }
 
 body{
